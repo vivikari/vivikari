@@ -1,4 +1,4 @@
-<h1 align="left">👋 Bem Vindos ao meu Github!</h1>
+<h1 align="left">✨ Bem Vindos ao meu Github!</h1>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Sou de São Paulo, Brasil<br>📚 Estudante de Ciências da Computação <br>🎯 Aspirante em Full Stack <br>🎲 Aprendendo C#, html, JavaScript, Python</p>
+<p align="left">🌎 Sou de São Paulo, Brasil<br>📚 Estudante de Ciências da Computação <br>🎯 Aspirante em Full Stack <br>💻 Aprendendo C#, html, JavaScript, Python</p>
 
 ###
 
-<h2 align="left">Linguagens e Ferramentas</h2>
+<h2 align="left">📎 Linguagens e Ferramentas</h2>
 
 ###
 
