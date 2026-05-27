@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&pause=1000&color=888780&center=true&vCenter=true&width=500&lines=Vivian+Umaki" alt="Vivian Umaki" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=36&pause=1000&color=6B9080&width=500&center=true&lines=Vivian+Umaki" alt="Vivian Umaki" />
 
 `dados` · `bi` · `analytics`
 
@@ -22,7 +22,7 @@ Trabalhando com dados reais na área de Remuneração e Gente & Gestão.
 | 🎓 **Formação** | Ciência da Computação · FECAP |
 | 💼 **Atuação** | Dados corporativos · RH & Gente |
 | 📍 **Localização** | São Paulo, Brasil |
-| 🎯 **Objetivo** | Decisões orientadas por dados |
+| 🎯 **Interesse** | Analytics, BI e Visualização de Dados |
 
 ---
 
@@ -47,11 +47,11 @@ Trabalhando com dados reais na área de Remuneração e Gente & Gestão.
 
 ## projetos em destaque
 
-### 📊 Cannoli Insight Hub
+### 📊 Dashboard Cannoli
 Dashboard analítico para startup foodtech com métricas em tempo real e pipeline de dados automatizado.  
 `Python` `Pandas` `MySQL` `Streamlit` `Plotly`
 
-### 📱 Cantina Escolar App
+### 📱 Comedoria da Tia App
 Aplicativo Android integrado a banco de dados em nuvem com autenticação, pedidos e painel de gestão.  
 `Android` `Supabase` `PostgreSQL` `REST API`
 
@@ -64,7 +64,7 @@ Website completo do design ao deploy, com foco em identidade visual e performanc
 ## estudando agora
 
 ```
-SQL avançado  ·  Python para dados  ·  Power BI  ·  Visualização  ·  BI
+SQL · Power BI · Python para Dados · Visualização de Dados · Analytics
 ```
 
 ---
