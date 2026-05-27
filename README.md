@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=36&pause=1000&color=6B9080&width=500&center=true&lines=Vivian+Umaki" alt="Vivian Umaki" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=33&pause=1000&color=6B9080&width=500&center=true&lines=Vivian+Umaki" alt="Vivian Umaki" />
 
 `dados` · `bi` · `analytics`
 
