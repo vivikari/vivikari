@@ -5,7 +5,7 @@
 `dados` · `bi` · `analytics`
 
 **Estudante de Ciência da Computação na FECAP**  
-Trabalhando com dados reais na área de Remuneração e Gente & Gestão.
+Base prática em Análise de Dados e Business Intelligence, com Python, SQL e Power BI.
 
 ![Data](https://img.shields.io/badge/Análise%20de%20Dados-0F6E56?style=flat-square)
 ![BI](https://img.shields.io/badge/Business%20Intelligence-534AB7?style=flat-square)
@@ -20,21 +20,26 @@ Trabalhando com dados reais na área de Remuneração e Gente & Gestão.
 | | |
 |---|---|
 | 🎓 **Formação** | Ciência da Computação · FECAP |
-| 💼 **Atuação** | Dados corporativos · RH & Gente |
+| 💼 **Atuação atual** | Estagiária de IA & Automação em consultoria |
 | 📍 **Localização** | São Paulo, Brasil |
-| 🎯 **Interesse** | Analytics, BI e Visualização de Dados |
+| 🎯 **Interesse** | Analytics, BI, Visualização de Dados e Engenharia de Dados |
 
 ---
 
 ## stack
 
-**Principal**
+**Dados & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**IA & Automação**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Outros**
 
@@ -48,7 +53,7 @@ Trabalhando com dados reais na área de Remuneração e Gente & Gestão.
 ## projetos em destaque
 
 ### 📊 Dashboard Cannoli
-Dashboard analítico para startup foodtech com métricas em tempo real e pipeline de dados automatizado.  
+Dashboard analítico para startup foodtech com métricas em tempo real e pipeline de dados automatizado. Monitoramento de faturamento, ticket médio, recorrência de clientes e taxa de conversão.  
 `Python` `Pandas` `MySQL` `Streamlit` `Plotly`
 
 ### 📱 Comedoria da Tia App
@@ -61,10 +66,16 @@ Website completo do design ao deploy, com foco em identidade visual e performanc
 
 ---
 
+## atuação atual
+
+Estagiária de IA & Automação em consultoria, com estudo e prática em **n8n**, **Supabase**, **agentes de IA** e **Claude Code**, aplicados à estruturação de processos e organização de demandas.
+
+---
+
 ## estudando agora
 
 ```
-SQL · Power BI · Python para Dados · Visualização de Dados · Analytics
+SQL · Power BI · Python para Dados · Visualização de Dados · Engenharia de Dados
 ```
 
 ---
