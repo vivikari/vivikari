@@ -50,7 +50,19 @@ Base prática em Análise de Dados e Business Intelligence, com Python, SQL e Po
 
 ---
 
-## projetos em destaque
+## projetos pessoais
+
+### 📊 [Telco Churn Analytics](https://github.com/vivikari/telco-churn-analytics)
+Análise de churn de clientes usando o dataset IBM Telco. Pipeline com Python, SQL e Power BI (em andamento).  
+`Python` `SQL` `Power BI`
+
+### 🏃‍♀️ [Bellabeat Capstone](https://github.com/vivikari/bellabeat-capstone)
+Capstone do Google Data Analytics Certificate. Análise de dados de dispositivos fitness (FitBit) para recomendar estratégias de marketing ao Bellabeat App, com identificação de padrões de atividade, sono e sedentarismo.  
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+## projetos acadêmicos
 
 ### 📊 Dashboard Cannoli
 Dashboard analítico para startup foodtech com métricas em tempo real e pipeline de dados automatizado. Monitoramento de faturamento, ticket médio, recorrência de clientes e taxa de conversão.  
