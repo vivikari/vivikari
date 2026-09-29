@@ -15,6 +15,16 @@ Foco em Análise de Dados e Business Intelligence, com Excel, Python, SQL e Powe
 </div>
 
 ---
+ 
+## currently
+ 
+```
+building    Telco Churn Analytics (falta o dashboard em Power BI)
+learning    Databricks · Lakehouse · PySpark
+using       Python · SQL · Power BI · Excel
+```
+ 
+---
 
 ## sobre
 
